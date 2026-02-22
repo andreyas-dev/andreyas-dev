@@ -27,13 +27,36 @@ I am a Mechatronics Engineer with a strong enthusiasm for the design and develop
   <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-### 🔧 Hardware & Simulation
+### 🔧 Hardware & Engineering Simulation
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keil_uVision-004481?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fritzing-139E82?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=autodesk&logoColor=white" alt="Proteus" />
+  <img src="https://img.shields.io/badge/Keil_uVision-004481?style=for-the-badge" alt="Keil" />
+  <img src="https://img.shields.io/badge/Fritzing-139E82?style=for-the-badge" alt="Fritzing" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/CNC_Simulation-444444?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="CNC Simulator" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+<div align="center">
+
+### 🧠 Mechatronics Skill Grid
+
+| Domain | Technical Expertise |
+| :--- | :--- |
+| **Embedded Systems** | Microcontroller Firmware, Sensor Integration (Arduino/C++) |
+| **Mechanical Design** | 3D Modeling (SOLIDWORKS), CNC Programming, G-Code |
+| **Simulations** | Circuit Design (Proteus), Schematic Capture (Fritzing) |
+| **Software Engineering** | Python Automation, Logic Development, VS Code |
+| **Future Tech** | Artificial Intelligence, Machine Learning for Robotics |
+
+</div>
 
 ---
 
