@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=ANDREYAS;Mechatronics+Engineer;Embedded+Systems+&amp;+Robotics;Welcome+to+my+Professional+Portfolio" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Mechatronics Engineer | Embedded Systems Developer | Automation Specialist</h3>
+<h3 align="center">Mechatronics Engineer | Embedded Systems Developer | Automation Enthusiast</h3>
 
 ---
 
 ## 🚀 Executive Summary
 
-I am a Mechatronics Engineer specializing in the design and development of intelligent systems. My work focuses on bridging the gap between mechanical hardware and high-performance software, specifically within the domains of **Embedded Systems**, **Arduino Uno** microcontrollers, and **Automation**. 
+I am a Mechatronics Engineer with a strong enthusiasm for the design and development of intelligent systems. My work focuses on bridging the gap between mechanical hardware and high-performance software, specifically within the domains of **Embedded Systems**, **Arduino Uno** microcontrollers, and **Automation**. 
 
-- 🔭 **Active Development:** Designing a high-fidelity **Virtual Robot** simulation.
-- 🌱 **Specialization:** Advancing expertise in **Artificial Intelligence** and **Machine Learning**.
+- 🔭 **Currently learning:** Working on **automation** and **intelligent robotics** projects .
+- 🌱 **Specialization:** Building and improving skills in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
 - 💬 **Core Competencies:** Embedded Systems, Microcontroller Firmware, and Python Automation.
 - 📫 **Professional Inquiry:** [eng.andreyas@gmail.com](mailto:eng.andreyas@gmail.com)
 
@@ -45,10 +45,6 @@ I am a Mechatronics Engineer specializing in the design and development of intel
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreyas-dev&theme=algolia&border_radius=10" width="94%" alt="Andreyas's Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyas-dev&layout=compact&theme=algolia&border_radius=10&hide=html,css" width="48%" alt="Andreyas's Language Breakdown" />
 </p>
 
 ---
