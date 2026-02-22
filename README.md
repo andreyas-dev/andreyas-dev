@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=ANDREYAS;Mechatronics+Engineer;Embedded+Systems+&amp;+Robotics;Welcome+to+my+Professional+Portfolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=ANDREYAS;Mechatronics+Engineer+&amp;+Robotics;Welcome+to+my+Professional+Portfolio" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Mechatronics Engineer | Embedded Systems Developer | Automation Enthusiast</h3>
