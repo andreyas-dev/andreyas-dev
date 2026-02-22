@@ -8,7 +8,7 @@
 
 ## 🚀 Executive Summary
 
-I am a Mechatronics Engineer with a strong enthusiasm for the design and development of intelligent systems. My work focuses on bridging the gap between mechanical hardware and high-performance software, specifically within the domains of **Embedded Systems**, **Arduino Uno** microcontrollers, and **Automation**. 
+I am a Mechatronics Engineer with a strong enthusiasm for the design and development of intelligent systems. My work focuses on bridging the gap between mechanical hardware and high-performance software, specifically within the domains of **Embedded Systems**, **Microcontrollers**, and **Automation**. 
 
 - 🔭 **Currently learning:** Working on **automation** and **intelligent robotics** projects .
 - 🌱 **Specialization:** Building and improving skills in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
